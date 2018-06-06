@@ -1,0 +1,42 @@
+Result for:
+printChristmasTree(1);
+printChristmasTree(2);
+printChristmasTree(3);
+printChristmasTree(4);
+printChristmasTree(5);
+printChristmasTree(6);
+
+*
+
+
+ *
+***
+
+
+  *
+ ***
+*****
+ **
+
+   *
+  ***
+ *****
+*******
+  **
+
+    *
+   ***
+  *****
+ *******
+*********
+   **
+
+     *
+    ***
+   *****
+  *******
+ *********
+***********
+    **
+
+Process finished with exit code 0
